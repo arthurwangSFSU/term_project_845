@@ -3,7 +3,7 @@ This repo is meant to archive any source code, presentation files, reports, and 
 
 ## Overview
 
-This project is an attempt to create a affordable device that's focused on multiple topics related to the human heart.
+This project is an attempt to create a smartwatch prototype that primarily measures your heart rate. Once it measures your 
 
 ### Consensus Reasons for this project
 Here are some of the motives for this project.
@@ -19,3 +19,5 @@ The third motive for this project is particularly important, because we want to 
 ## List of deliverables that were used for the term project. 
 1. Poster
 2. Presentation
+3. Arudino Sketch used to code the smartwatch prototype.
+4. Project Paper Report (used to discuss more in-depth about the project) 
